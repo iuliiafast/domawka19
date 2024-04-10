@@ -1,0 +1,9 @@
+Filesystem                Size      Used Available Use% Mounted on
+Modified with text editor
+/dev/root                 4.9G      2.3G      2.6G  47% /
+   2 df -h / >> File.txt
+   3 history
+   4 history | tail -n 3 >> File.txt
+cron:x:16:16:cron:/var/spool/cron:/sbin/nologin
+at:x:25:25:at:/var/spool/cron/atjobs:/sbin/nologin
+11

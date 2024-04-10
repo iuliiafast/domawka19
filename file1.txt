@@ -1,0 +1,5 @@
+Mon Mar 25 22:34:01 UTC 2024
+Hello, IuliiaFast!
+Current directory: /root
+Number of bioset processes: 10
+-rw-r--r--
